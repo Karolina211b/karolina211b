@@ -1,4 +1,4 @@
-### Hi there 👋
+### karolina 👋
 
 <!--
 **Karolina211b/karolina211b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
